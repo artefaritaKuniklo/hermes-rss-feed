@@ -4,8 +4,15 @@
   <link>https://github.com/artefaritaKuniklo/hermes-rss-feed/raw/main/feed.xml</link>
   <description>通过 Hermes Agent 推送的个人内容 RSS 源</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 09 Sep 2026 07:13:42 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 07:49:58 GMT</lastBuildDate>
   <ttl>3600</ttl>
+  <item>
+    <title>闭环测试 #2：脚本 push→deploy 全链路</title>
+    <link>https://github.com/artefaritaKuniklo/hermes-rss-feed</link>
+    <guid isPermaLink="false">hermes-1788940170.019037</guid>
+    <pubDate>Wed, 09 Sep 2026 07:49:30 GMT</pubDate>
+    <description><![CDATA[这条由 rss_feed.py --deploy 自动部署，验证今后日常推送路径。]]></description>
+  </item>
   <item>
     <title>链路测试：RSS 推送工作流已就绪</title>
     <link>https://github.com</link>
