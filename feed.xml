@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>Hermes 推送</title>
+  <link>https://github.com/artefaritaKuniklo/hermes-rss-feed/raw/main/feed.xml</link>
+  <description>通过 Hermes Agent 推送的个人内容 RSS 源</description>
+  <language>zh-cn</language>
+  <lastBuildDate>Wed, 09 Sep 2026 07:13:42 GMT</lastBuildDate>
+  <ttl>3600</ttl>
+  <item>
+    <title>链路测试：RSS 推送工作流已就绪</title>
+    <link>https://github.com</link>
+    <guid isPermaLink="false">hermes-1788938022.8513844</guid>
+    <pubDate>Wed, 09 Sep 2026 07:13:42 GMT</pubDate>
+    <description><![CDATA[这是 Hermes 推送到 GitHub 的 RSS 测试条目。在文石中订阅 raw URL 后应能看到此条。]]></description>
+  </item>
+</channel></rss>
