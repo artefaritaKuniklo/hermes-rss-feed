@@ -4,8 +4,15 @@
   <link>https://github.com/artefaritaKuniklo/hermes-rss-feed/raw/main/feed.xml</link>
   <description>通过 Hermes Agent 推送的个人内容 RSS 源</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 20 Oct 2026 21:07:54 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 21:10:01 GMT</lastBuildDate>
   <ttl>3600</ttl>
+  <item>
+    <title>The Lantern — 2026-10-22</title>
+    <link>https://raw.githubusercontent.com/artefaritaKuniklo/hermes-rss-feed/main/images/2026-10-22-q82.jpg</link>
+    <guid isPermaLink="false">hermes-1792616999.3467343</guid>
+    <pubDate>Wed, 21 Oct 2026 21:09:59 GMT</pubDate>
+    <description><![CDATA[<div style="text-align:center"><img src="https://raw.githubusercontent.com/artefaritaKuniklo/hermes-rss-feed/main/images/2026-10-22-q82.jpg" width="1264" alt="The Lantern full page 2026-10-22-q82.jpg" style="max-width:100%;display:block;margin:0 auto"/><p><i>The Lantern full page &middot; 425 KB</i></p></div>]]></description>
+  </item>
   <item>
     <title>The Lantern — 2026-10-21</title>
     <link>https://raw.githubusercontent.com/artefaritaKuniklo/hermes-rss-feed/main/images/2026-10-21-q82.jpg</link>
